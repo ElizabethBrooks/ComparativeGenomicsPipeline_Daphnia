@@ -1,0 +1,1 @@
+orthoFinder: /scratch365/ebrooks5/OLYM_dMelUV_analysis/multi_genome

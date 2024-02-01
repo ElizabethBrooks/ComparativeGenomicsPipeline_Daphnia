@@ -1,0 +1,2 @@
+daphniaGenomes: /afs/crc.nd.edu/group/pfrenderlab/mendel/DaphniaGenomes
+outgroupGenomes: /afs/crc.nd.edu/group/pfrenderlab/mendel/OutgroupGenomes
